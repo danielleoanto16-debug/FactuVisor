@@ -1,8 +1,10 @@
 {
+  "id": "control-facturas-app",
   "name": "Visor de Facturas",
   "short_name": "Visor App",
   "description": "Visor de presupuestos y facturas en tiempo real.",
   "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#111827",
   "theme_color": "#059669",
