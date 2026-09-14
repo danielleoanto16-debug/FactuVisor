@@ -11,12 +11,12 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/2652/2652234.png",
+      "src": "./facturas.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/2652/2652234.png",
+      "src": "./facturas.png",
       "sizes": "512x512",
       "type": "image/png"
     }
